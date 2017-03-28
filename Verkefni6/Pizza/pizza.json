@@ -1,0 +1,10 @@
+{
+	"Pizza":[
+        {
+			"Crust": "Original",
+			"Toppings": "Cheese, Pepperoni, Garlic",
+			"Status": "Cooking",
+			"Customer": "Jói, 5812345"
+		}
+	]
+}

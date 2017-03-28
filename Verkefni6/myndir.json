@@ -1,0 +1,16 @@
+{
+	"myndir":[
+        {
+			"nafn": "Rauð panda",
+			"linkur": "http://178.62.46.222/myndir/RedPanda.jpg"
+		},
+		{
+			"nafn": "Skólahljómsveit Kópavogs",
+			"linkur": "http://178.62.46.222/myndir/SK.jpg"
+		},
+		{
+			"nafn": "Fluffy",
+			"linkur": "http://178.62.46.222/myndir/fluff.jpg"
+		}
+	]
+}

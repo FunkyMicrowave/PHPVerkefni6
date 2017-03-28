@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pizza>
+  <CrustType>Org</CrustType>
+  <Toppings>EXO, PPP, HVÍ</Toppings>
+  <Status>Oven</Status>
+  <Customer>Jói, 5812345</Customer>
+</Pizza>
